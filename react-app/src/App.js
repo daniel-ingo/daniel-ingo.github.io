@@ -3,6 +3,7 @@ import "./App.css";
 
 export default function App() {
   return (
+    <title> Test Title </title>
     <div className="app">
       {/* Navbar */}
       <nav className="navbar">
